@@ -1,0 +1,30 @@
+# IDE and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+venv/
+env/
+
+# Node
+node_modules/
+.next/
+npm-debug.log
+yarn-error.log
+
+# Docker
+.dockerignore
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
